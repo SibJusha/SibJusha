@@ -1,3 +1,9 @@
+<div id="badges" align="center">
+  <a href="https://t.me/andrjusha">
+  <img src="https://img.shields.io/badge/Andrjusha-blue?style=for-the-badge&logo=Telegram">
+  </a>
+</div>
+
 <h2>My stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SibJusha&layout=donut)
