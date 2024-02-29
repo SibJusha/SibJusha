@@ -1,3 +1,8 @@
+<h2>Welcome!</h2>
+My name is Andrew and I'm a little more than newbie programmer specializing in C/C++. I'm studying Mathematics & CS at Novosibirsk State University.
+
+My interests: Compilers & Interpreters, Graphics.
+
 <div id="badges" align="center">
   <a href="https://t.me/andrjusha">
   <img src="https://img.shields.io/badge/Andrjusha-blue?style=for-the-badge&logo=Telegram">
