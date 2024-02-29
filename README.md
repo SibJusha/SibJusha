@@ -9,10 +9,6 @@ My interests: Compilers & Interpreters, Graphics.
   </a>
 </div>
 
-<h2>My stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SibJusha&layout=donut)
-
 <h2>My skills</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -28,4 +24,9 @@ My interests: Compilers & Interpreters, Graphics.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp  
 </div>
 
-C/C++ / Python / Java / Linux / Make / Vim / Bash / Git / JSON / LaTex 
+C/C++ / Python / Java / Linux / Make / Vim / Bash / Git / JSON / LaTex
+
+<h2>My stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SibJusha&layout=donut)
+ 
