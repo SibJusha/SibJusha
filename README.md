@@ -21,10 +21,10 @@ My interests: Compilers & Interpreters, Graphics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/11060565/181719546-bc83cdb5-faa0-4e98-919c-a0e45e8e68be.png" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp  
 </div>
 
-C/C++ / Python / Java / Linux / Make / Vim / Bash / Git / JSON / LaTex
+C/C++ / Python / Java / Linux / Make / Vim / Bash / Git / JSON / LaTeX
 
 <h2>My stats</h2>
 
