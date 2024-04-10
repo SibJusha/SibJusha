@@ -27,8 +27,4 @@ My interests: Compilers & Interpreters, Graphics.
 </div>
 
 C/C++ / Linux / CMake/Make / Bash / Git / OpenGL / Python / Vim / JSON / LaTeX / SQL / Java
-
-<h2>My stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SibJusha&layout=donut)
  
