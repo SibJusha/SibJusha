@@ -19,12 +19,10 @@ My interests: Compilers & Interpreters, Graphics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/11060565/181719546-bc83cdb5-faa0-4e98-919c-a0e45e8e68be.png" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>&nbsp;
 </div>
 
-C/C++ / Linux / CMake/Make / Bash / Git / OpenGL / Python / Vim / JSON / LaTeX / SQL / Java
+C/C++ / Linux / CMake / Bash / Git / OpenGL / Python / JSON / LaTeX / SQL
  
