@@ -3,6 +3,8 @@ My name is Andrew and I'm a little more than newbie programmer specializing in C
 
 My interests: Compilers & Interpreters, Graphics.
 
+My CV: [CV.pdf](https://github.com/SibJusha/SibJusha/blob/master/CV.pdf)
+
 <div id="badges" align="center">
   <a href="https://t.me/andrjusha">
   <img src="https://img.shields.io/badge/Andrjusha-blue?style=for-the-badge&logo=Telegram">
