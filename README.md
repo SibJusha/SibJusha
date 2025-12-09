@@ -1,5 +1,5 @@
 <h2>Welcome!</h2>
-My name is Andrew and I'm a programmer specializing in C/C++. I'm studying Mathematics & CS at Novosibirsk State University.
+My name is Andrew and I'm a programmer specializing in C#/.NET and C++. I'm studying Mathematics & CS at Novosibirsk State University.
 
 My interests: Compilers & Interpreters, Graphics.
 
@@ -11,6 +11,7 @@ My interests: Compilers & Interpreters, Graphics.
 
 <h2>My skills</h2>
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="CS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -24,5 +25,5 @@ My interests: Compilers & Interpreters, Graphics.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
-C/C++ / Linux / CMake / Bash / Git / OpenGL / Python / JSON / LaTeX / SQL
+C# / C / C++ / Linux / CMake / Bash / Git / OpenGL / Python / JSON / LaTeX / SQL
  
