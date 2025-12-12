@@ -1,5 +1,5 @@
 <h2>Welcome!</h2>
-My name is Andrew and I'm a programmer specializing in C#/.NET and C++. I'm studying Mathematics & CS at Novosibirsk State University.
+My name is Andrew and I'm a programmer specializing in C#/.NET and C++. I'm pursuing a Master's degree in Mathematics & Computer Science at Novosibirsk State University.
 
 My interests: Compilers & Interpreters, Graphics.
 
